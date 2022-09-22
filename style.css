@@ -51,10 +51,13 @@ body {
     align-items: center;
     justify-content: space-around;
     flex-wrap: wrap;
+    max-width: 2000px;
+    margin: 0 auto;
 }
 
 .conteudo-principal > div{
     flex: 1 1 150px;
+    margin: 10px;
 }
 
 .conteudo-principal-escrito1 {
