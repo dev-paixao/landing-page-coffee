@@ -1,8 +1,8 @@
-# landing-page-clonetutorial
+# landing-page-coffee
 
-Clone tutorial (canal Rafaella Ballerini) de uma landing page apenas com HTML e CSS! 
+Landing page apenas com HTML e CSS! 
 
-## [Demo](https://dev-paixao.github.io/landing-page-clonetutorial/)
+## [Demo](https://dev-paixao.github.io/landing-page-coffee/)
 
 ## Preview
 ![Preview](./img/preview.jpg)
